@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>密码.png</file>
+        <file>账号.png</file>
+        <file>背景.jpg</file>
+        <file>登录.png</file>
+        <file>工资.png</file>
+    </qresource>
+</RCC>
